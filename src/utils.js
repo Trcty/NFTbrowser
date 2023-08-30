@@ -1,6 +1,6 @@
 const origin = "https://deep-index.moralis.io";
 const apiKey =
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub25jZSI6IjYyNWUwNDg0LWQzZDYtNDE1ZS04OGQ1LTlmMjQwMDQ0MDUxOSIsIm9yZ0lkIjoiMzUzOTExIiwidXNlcklkIjoiMzYzNzQ1IiwidHlwZUlkIjoiYjRkMWVmYTUtNDM3ZS00OTY1LWI4ZjEtM2ZlMTEyZTQzZWVhIiwidHlwZSI6IlBST0pFQ1QiLCJpYXQiOjE2OTI1NDA4NDksImV4cCI6NDg0ODMwMDg0OX0.xfoHwqSF1yWya_y9PuguC2TAcFMK-DWYui2tLzOaaiI";
+  "";
 
 // get all nfts under one contract, based on tokenaddress
 export const getContractNFTs = async (tokenAddress) => {
